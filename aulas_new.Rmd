@@ -1,0 +1,166 @@
+---
+title: "Introdução à Estatística"
+subtitle: |
+  | Prof. Dra. Silvia Emiko Shimakura
+author: |
+  |
+  | 2026/02 - Introdução à Estatística
+output:
+  html_document:                    
+    #toc: true                       
+    #toc_depth: 3                    
+    #toc_float:                      
+    #  collapsed: true
+    #  smooth_scroll: true
+    #number_sections: true           
+    #theme: default
+    #spacelab
+    #default,cerulean,journal,flatly,readable,spacelab,
+    #united,cosmo,lumen,paper,sandstone,simplex,yeti
+    
+    highlight: espresso
+    #default, tango, pygments, kate, monochrome, espresso, zenburn, haddock, and textmate
+    #css: styles.css                
+    fig_width: 7                    
+    fig_height: 6                   
+    fig_caption: true               
+    fig_align: 'center'
+    #code_folding: hide              
+#    keep_md: true
+---
+
+---
+
+# Aulas do curso
+
+---
+
+## Bloco 1: Análise Exploratória
+
+**Semana 1**
+
+  - 03/08/26 (seg) - [Apresentação da disciplina: Cronograma; Avaliações. Introdução à Estatística: 
+importância, conceitos, elementos e aplicações (Prof. Paulo Justiniano).](slides/100-introducao.pdf) 
+  - 05/08/26 (qua) - [Amostragem: métodos de amostragem probabilística e não probabilística.](slides/101-dados-e-amostragem.pdf) [Atividade prática: tipos de variáveis, tipos de estudos e amostragem](praticas-aula/100-variaveis-estudos-amostragem-enunciados.pdf).
+
+**Semana 2**
+
+ - 10/08/26 (seg) - [Gráficos e tabelas para variáveis qualitativas.](slides/102-exploratoria-quali-uni-tabelas-graficos.pdf) [Atividade prática: gráficos e tabelas](praticas-aula/101-tabelas-graficos-quali-quant-enunciados.pdf).
+ - 12/08/26 (qua) - [Gráficos e tabelas para variáveis quantitativas.](slides/103-exploratoria-quant-uni-tabelas-graficos.pdf)
+
+**Semana 3**
+
+ - 17/08/26 (seg) - [Resumos numéricos - medidas de posição.](slides/104-exploratoria-medidas-posicao.pdf) [Atividade prática: medidas de posição](praticas-aula/102-medidas-posicao-dispersao-enunciados.pdf).
+ - 19/08/26 (qua) - [Resumos numéricos - medidas de dispersão.](slides/105-exploratoria-medidas-dispersao.pdf) [Atividade prática: medidas de dispersão](praticas-aula/102-medidas-posicao-dispersao-enunciados.pdf).
+
+**Semana 4**
+
+ - 24/08/26 (seg) - [Análises bivariadas.](slides/106-exploratoria-bivariada.pdf) [Atividade prática: análises bivariadas](praticas-aula/103-analises-bivariadas-enunciados.pdf).
+ - 26/08/26 (qua) - [Exercícios (descritiva)](listas/100-exercicios-exploratória.pdf).
+
+---
+
+## Bloco 2: Probabilidades
+
+**Semana 5**
+
+ - 31/08/26 (seg) - [Introdução a probabilidade](slides/200-intro-prob.pdf). [Atividade prática: Probabilidades (item 1 ao item 3)](praticas-aula/200-probabilidade-enunciados.pdf).
+ - 02/09/26 (qua) - [Operações com probabilidades](slides/201-operacoes-com-probabilidades.pdf). [Atividade prática: Probabilidades (item 4 ao item 7)](praticas-aula/200-probabilidade-enunciados.pdf)
+
+**Semana 6**
+
+ - 07/09/26 (seg) - *Feriado*
+ - 09/09/26 (qua) -  Revisão geral (UD0-UD1)
+
+**Semana 7**
+
+ - 14/09/26 (seg) - [**PROVA 1**]
+ - 16/09/26 (qua) - [Teorema de Bayes](slides/202-teorema-de-bayes.pdf). [Atividade prática: Probabilidades (item 8)](praticas-aula/200-probabilidade-enunciados.pdf).
+
+**Semana 8**
+
+ - 21/09/26 (seg) - [Exercícios (probabilidades)](listas/201-exercicios-probabilidades.pdf)
+ - 23/09/26 (qua) - [Variáveis aleatórias discretas e contínuas.](slides/300-variaveis-aleatorias.pdf) [Atividade prática: variáveis aleatórias](praticas-aula/300-variaveis-aleatorias-enunciado.pdf). 
+
+---
+
+## Bloco 3: Variáveis Aleatórias e Distribuições de Probabilidade
+
+**Semana 9**
+
+ - 28/09/26 (seg) - [Exercícios: variáveis aleatórias](listas/202-exercicios-variaveis-aleatorias.pdf).
+ - 30/09/26 (qua) -  [Distribuições de probabilidade discretas](slides/301-distribuicoes-discretas.pdf). [Exercícios: Distribuições de probabilidade discretas](listas/203-exercicios-distribuicoes.pdf).
+
+**Semana 10**
+
+ - 05/10/26 (seg) - [Distribuições de probabilidade contínuas](slides/302-distribuicoes-continuas.pdf).
+ - 07/10/26 (qua) - [Exercícios: Distribuições de probabilidade contínuas](listas/203-exercicios-distribuicoes.pdf).
+
+**Semana 11**
+
+ - 12/10/26 (seg) - *Feriado*
+ - 14/10/26 (qua) - Revisão geral (UD2-UD3-UD4).
+
+**Semana 12**
+
+ - 19/10/26 (seg) - *SIEPE*
+ - 21/10/26 (qua) - *SIEPE* 
+
+**Semana 13**
+
+ - 26/10/26 (seg) - [**PROVA 2**]
+ - 28/10/26 (qua) - *Feriado*
+
+---
+
+## Bloco 4: Inferência
+
+**Semana 14**
+
+ - 02/11/26 (seg) - *Feriado*
+ - 04/11/26 (qua) - [Introdução à inferência.](slides/400-intro-inferencia.pdf)  
+
+**Semana 15**
+
+ - 09/11/26 (seg) - [Atividade prática: Distribuições amostrais.](praticas-aula/400-intro-inferencia-dist-amostral-enunciado.pdf)
+ - 11/11/26 (qua) - [Estimação pontual e intervalar.](slides/401-estimacao-pontual-intervalar.pdf) [Atividade prática: IC.](praticas-aula/401-intervalo-de-confianca-enunciado.pdf)
+
+**Semana 16**
+
+ - 16/11/26 (seg) - [Tamanho amostral.](slides/402-tamanho-amostral.pdf) [Atividade prática: Tamanho amostra.](praticas-aula/402-tamanho-amostral-enunciado.pdf)   
+ - 18/11/26 (qua) - [Introdução aos testes de hipóteses, testes para uma população](slides/403-testes-de-hipoteses-novo.pdf). [Atividade prática: testes de hipóteses.](praticas-aula/403-teste-de-hipoteses-enunciado.pdf) 
+
+**Semana 17**
+
+ - 23/11/26 (seg) - [Exercícios: Testes de hipóteses.](listas/302-exercicios-testes-de-hipoteses.pdf)
+ - 25/11/26 (qua) - [Revisão geral:(UD5-UD6-UD7)](praticas-aula/exercicios-revisao-inferencia.pdf)
+
+**Semana 18**
+
+ - 30/11/26 (seg) - [**PROVA 3**] 
+ - 02/12/26 (qua) - 
+
+**Exame**
+
+ - 09/12/26 (qua) - **EXAME.**
+
+---
+
+<center>
+
+<table><tr>
+
+<td> <img src="img/ufpr-transparent-600px.png" alt="Drawing" style="width: 200px;"/> </td>
+
+<td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
+
+<td> <img src="img/dest-texto-2.png" alt="Drawing" style="width: 250px;"/> </td>
+
+<td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
+
+<td> <img src="img/leg.png" alt="Drawing" style="width: 300px;"/> </td>
+
+</center>
+
+
+<div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;"></div>

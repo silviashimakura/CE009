@@ -1,0 +1,125 @@
+---
+title: "Introdução à Estatística"
+subtitle: |
+  | Prof. Dra. Silvia Emiko Shimakura
+author: |
+  |
+  | 2026/02 - Introdução à Estatística
+output:
+  html_document:                    
+    #toc: true                       
+    #toc_depth: 3                    
+    #toc_float:                      
+    #  collapsed: true
+    #  smooth_scroll: true
+    #number_sections: true           
+    #theme: default
+    #spacelab
+    #default,cerulean,journal,flatly,readable,spacelab,
+    #united,cosmo,lumen,paper,sandstone,simplex,yeti
+    
+    highlight: espresso
+    #default, tango, pygments, kate, monochrome, espresso, zenburn, haddock, and textmate
+    #css: styles.css                
+    fig_width: 7                    
+    fig_height: 6                   
+    fig_caption: true               
+    fig_align: 'center'
+    #code_folding: hide              
+#    keep_md: true
+---
+
+---
+
+# Podcasts
+
+---
+
+## Bloco 1: Análise Exploratória
+
+<div style="text-align: center;">
+  <p><strong>Episódio 1: Por que a média esconde a verdade.</strong></p>
+  <audio controls>
+    <source src="notebookLM/podcasts/100-Por_que_a_média_esconde_a_verdade.m4a" type="audio/mp4">
+  </audio>
+</div>
+
+
+---
+
+## Bloco 2: Probabilidades
+
+<div style="text-align: center;">
+  <p><strong>Episódio 2: A matemática do prejuízo no jogo de dados.</strong></p>
+  <audio controls>
+    <source src="notebookLM/podcasts/200-A_matemática_do_prejuízo_no_jogo_de_dados.m4a" type="audio/mp4">
+  </audio>
+</div>
+
+---
+
+## Bloco 3: Variáveis Aleatórias e Distribuições de Probabilidade
+
+<div style="text-align: center;">
+  <p><strong>Episódio 3: Medindo a incerteza com esperança e variância.</strong></p>
+  <audio controls>
+    <source src="notebookLM/podcasts/300-301-302-Medindo_a_incerteza_com_esperança_e_variância.m4a" type="audio/mp4">
+  </audio>
+</div>
+
+---
+
+## Bloco 4: Inferência
+
+<div style="text-align: center;">
+  <p><strong>Episódio 4: Inferência e o Teorema Central do Limite.</strong></p>
+  <audio controls>
+  <source src="notebookLM/podcasts/400-Inferência_e_o_Teorema_Central_do_Limite.m4a" type="audio/mp4">
+  </audio>
+</div>
+
+
+<div style="text-align: center;">
+  <p><strong>Episódio 5: Da Estimativa Pontual ao Intervalo de Confiança.</strong></p>
+  <audio controls>
+  <source src="notebookLM/podcasts/401-Da_Estimativa_Pontual_ao_Intervalo_de_Confiança.m4a" type="audio/mp4">
+</audio>
+</div>
+
+
+<div style="text-align: center;">
+  <p><strong>Episódio 6: Quantas pessoas entrevistar para ter dados confiáveis.</strong></p>
+  <audio controls>
+  <source src="notebookLM/podcasts/402-Quantas_pessoas_entrevistar_para_ter_dados_confiáveis.m4a" type="audio/mp4">
+  </audio>
+</div>
+
+
+<div style="text-align: center;">
+  <p><strong>Episódio 7: O veredito dos dados no teste de hipóteses.</strong></p>
+  <audio controls>
+  <source src="notebookLM/podcasts/403-O_veredito_dos_dados_no_teste_de_hipóteses.m4a" type="audio/mp4">
+  </audio>
+</div>
+
+
+---
+
+<center>
+
+<table><tr>
+
+<td> <img src="img/ufpr-transparent-600px.png" alt="Drawing" style="width: 200px;"/> </td>
+
+<td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
+
+<td> <img src="img/dest-texto-2.png" alt="Drawing" style="width: 250px;"/> </td>
+
+<td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
+
+<td> <img src="img/leg.png" alt="Drawing" style="width: 300px;"/> </td>
+
+</center>
+
+
+<div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;"></div>
