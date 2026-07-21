@@ -31,10 +31,6 @@ navbar:
           icon: fa-arrow-right
           href: listas/100-exercicios-exploratoria.pdf
 
-        - text: "Análise exploratória com R"
-          icon: fa-arrow-right
-          href: praticas-R/atividade.html
-          
         - text: "Probabilidade"
           icon: fa-arrow-right
           href: listas/201-exercicios-probabilidade.pdf
