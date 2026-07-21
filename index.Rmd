@@ -102,7 +102,7 @@ output:
 As atividades avaliativas serão em formato de:
 
 - **Provas presenciais**:
-    - Avaliações presenciais referente à partes do conteúdo. Veja Ficha 2 no SIGA.
+    - Três avaliações presenciais referentes à partes do conteúdo. 
     - Os alunos serão notificados quanto às datas e materiais permitidos durante a avaliação.
     - Caso o aluno não possa comparecer no dia da prova e possua justificativa, deve solicitar segunda chamada em até 5 dias úteis após a data da prova regular.
 
