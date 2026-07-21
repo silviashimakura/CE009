@@ -70,7 +70,7 @@ importância, conceitos, elementos e aplicações (Prof. Paulo Justiniano).](sli
 **Semana 6**
 
  - 07/09/26 (seg) - *Feriado*
- - 09/09/26 (qua) -  Revisão geral (UD0-UD1)
+ - 09/09/26 (qua) -  Revisão geral (Bloco 1)
 
 **Semana 7**
 
@@ -99,7 +99,7 @@ importância, conceitos, elementos e aplicações (Prof. Paulo Justiniano).](sli
 **Semana 11**
 
  - 12/10/26 (seg) - *Feriado*
- - 14/10/26 (qua) - Revisão geral (UD2-UD3-UD4).
+ - 14/10/26 (qua) - Revisão geral (Blocos 2 e 3).
 
 **Semana 12**
 
@@ -133,7 +133,7 @@ importância, conceitos, elementos e aplicações (Prof. Paulo Justiniano).](sli
 **Semana 17**
 
  - 23/11/26 (seg) - [Exercícios: Testes de hipóteses.](listas/302-exercicios-testes-de-hipoteses.pdf)
- - 25/11/26 (qua) - [Revisão geral:(UD5-UD6-UD7)](praticas-aula/exercicios-revisao-inferencia.pdf)
+ - 25/11/26 (qua) - [Revisão geral (Bloco 4)](praticas-aula/exercicios-revisao-inferencia.pdf)
 
 **Semana 18**
 
