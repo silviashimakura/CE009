@@ -45,7 +45,7 @@ importância, conceitos, elementos e aplicações (Prof. Paulo Justiniano).](sli
 
 **Semana 2**
 
- - 10/08/26 (seg) - [Material revisão elementos de matemática para estatística.](slides/000-revisao-matematica.pdf) [Gráficos e tabelas para variáveis qualitativas.](slides/102-exploratoria-quali-uni-tabelas-graficos.pdf) [Atividade prática: gráficos e tabelas](praticas-aula/101-tabelas-graficos-quali-quant-enunciados.pdf).
+ - 10/08/26 (seg) - [Gabarito teste conhecimentos matemática.](provas2026/gabarito_comentado_aluno.pdf) [Material revisão elementos de matemática para estatística.](slides/000-revisao-matematica.pdf) [Gráficos e tabelas para variáveis qualitativas.](slides/102-exploratoria-quali-uni-tabelas-graficos.pdf) [Atividade prática: gráficos e tabelas](praticas-aula/101-tabelas-graficos-quali-quant-enunciados.pdf).
  - 12/08/26 (qua) - [Gráficos e tabelas para variáveis quantitativas.](slides/103-exploratoria-quant-uni-tabelas-graficos.pdf)
 
 **Semana 3**
