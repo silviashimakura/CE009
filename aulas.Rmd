@@ -56,7 +56,7 @@ importância, conceitos, elementos e aplicações (Prof. Paulo Justiniano).](sli
 **Semana 4**
 
  - 24/08/26 (seg) - [Análises bivariadas.](slides/106-exploratoria-bivariada.pdf) [Atividade prática: análises bivariadas](praticas-aula/103-analises-bivariadas-enunciados.pdf).
- - 26/08/26 (qua) - [Exercícios (descritiva)](listas/100-exercicios-exploratória.pdf).
+ - 26/08/26 (qua) - [Exercícios (descritiva)](listas/100-exercicios-exploratoria.pdf).
 
 ---
 
