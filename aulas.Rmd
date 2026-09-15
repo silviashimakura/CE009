@@ -63,7 +63,7 @@ importância, conceitos, elementos e aplicações (Prof. Paulo Justiniano).](sli
 
 **Semana 8**
 
- - 21/09/26 (seg) - [Exercícios (probabilidades)](listas/201-exercicios-probabilidades.pdf)
+ - 21/09/26 (seg) - [Exercícios (probabilidades)](listas/201-exercicios-probabilidade.pdf)
  - 23/09/26 (qua) - [Variáveis aleatórias discretas e contínuas.](slides/300-variaveis-aleatorias.pdf) [Atividade prática: variáveis aleatórias](praticas-aula/300-variaveis-aleatorias-enunciado.pdf). 
 
 ---
