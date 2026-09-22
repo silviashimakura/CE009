@@ -64,6 +64,7 @@ notas <- readxl::read_xlsx('notas-chamada.xlsx')
 notas$`PROVA 1` <- round(as.numeric(notas$`PROVA 1`)/10,1)
 notas$`PROVA 2` <- round(as.numeric(notas$`PROVA 2`)/10,1)
 notas$`PROVA 3` <- round(as.numeric(notas$`PROVA 3`)/10,1)
+
 #notas$`PROVA 4` <- round(as.numeric(notas$`PROVA 4`)/10,1)
 # notas$`REMOTA 1` <- round(as.numeric(notas$`REMOTA 1`),1)
 # notas$`REMOTA 2` <- round(as.numeric(notas$`REMOTA 2`),1)
