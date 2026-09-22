@@ -61,10 +61,10 @@ dispersao <- function(vetor){
 
 notas <- readxl::read_xlsx('notas-chamada.xlsx')
 
-notas$`PROVA 1` <- round(as.numeric(notas$`PROVA 1`),1)
-notas$`PROVA 2` <- round(as.numeric(notas$`PROVA 2`),1)
-notas$`PROVA 3` <- round(as.numeric(notas$`PROVA 3`),1)
-notas$`PROVA 4` <- round(as.numeric(notas$`PROVA 4`),1)
+notas$`PROVA 1` <- round(as.numeric(notas$`PROVA 1`)/10,1)
+notas$`PROVA 2` <- round(as.numeric(notas$`PROVA 2`)/10,1)
+notas$`PROVA 3` <- round(as.numeric(notas$`PROVA 3`)/10,1)
+#notas$`PROVA 4` <- round(as.numeric(notas$`PROVA 4`)/10,1)
 # notas$`REMOTA 1` <- round(as.numeric(notas$`REMOTA 1`),1)
 # notas$`REMOTA 2` <- round(as.numeric(notas$`REMOTA 2`),1)
 # notas$`REMOTA 3` <- round(as.numeric(notas$`REMOTA 3`),1)
@@ -83,18 +83,17 @@ notas$`PROVA 4` <- round(as.numeric(notas$`PROVA 4`),1)
 #                                           )],na.rm = T) /4
 
 soma_parciais <- rowSums(notas[,c('PROVA 1', 'PROVA 2',
-                                  'PROVA 3', 'PROVA 4')], 
+                                  'PROVA 3')], 
                          na.rm = T)
 
 menor_parcial <- pmin(
   ifelse(is.na(notas$`PROVA 1`),0, notas$`PROVA 1`), 
   ifelse(is.na(notas$`PROVA 2`),0, notas$`PROVA 2`), 
   ifelse(is.na(notas$`PROVA 3`),0, notas$`PROVA 3`), 
-  ifelse(is.na(notas$`PROVA 4`),0, notas$`PROVA 4`), 
   na.rm = T)
 
 #pre_exame <- round((soma_parciais-menor_parcial)/4, 1)
-pre_exame <- round(soma_parciais/4, 1)
+pre_exame <- round(soma_parciais/3, 1)
 
 i <- pre_exame==3.9
 pre_exame[i] <- 4
@@ -144,7 +143,7 @@ notas$`SITUAÇÃO FINAL` <-
 #               editable = F
 #               )
 
-#knitr::kable(notas[,c(2,3,4,5,6,7,80)])
+knitr::kable(notas[,c(2,3,6)])
 #knitr::kable(notas[,c(2,3,4,5,6,7,80,81,82,83)])
 #knitr::kable(notas[,c(2,7,80,81,8,82,83)])
 
@@ -390,76 +389,6 @@ p1 = ggplot(notas) +
 
 p2 = ggplot(data = notas,
             mapping = aes(y=`PROVA 3`, x='1')) +
-  stat_boxplot(geom ='errorbar')+
-  geom_boxplot(alpha = 1)+
-  #xlim(c(0,10)) +
-  stat_summary(fun.y=mean,
-               geom="point",
-               shape=20,
-               size=3,
-               color="red",
-               fill="red")+
-  ylab("Notas") +
-  xlab("") +
-  #ggtitle("Titulo")+
-  scale_y_continuous(limits = c(0, 10))+
-  theme_classic() + theme(legend.position = 'none',
-                          plot.title = element_text(family = "Helvetica",
-                                                    face = "bold",
-                                                    size = (20),
-                                                    hjust = 0), #0,5 para legenda centralizada
-                          axis.title = element_text(face = "bold",
-                                                    size = 15),
-                          axis.text.y=element_blank(),
-                          text = element_text(size=15)) +coord_flip()
-
-ggarrange(p1, p2,
-          heights = c(2, 1),
-          align = "hv",
-          ncol = 1,
-          nrow = 2)
-```
-
----
-
-## PROVA 4
-
-<center>
-```{r, echo=FALSE, warning=FALSE}
-pander::pander(posicao(notas$`PROVA 4`))
-pander::pander(dispersao(notas$`PROVA 4`))
-```
-</center>
-
-```{r, comment=FALSE, message=FALSE, fig.align='center', warning=TRUE, echo = FALSE, warning=FALSE}
-library(ggplot2)
-library(ggpubr)
-
-p1 = ggplot(notas) +
-  geom_histogram(aes(x=`PROVA 4`,
-                     y=..density..),
-                 position="identity",
-                 col = 1,
-                 lwd = 1,
-                 breaks = seq(0,10,0.5)) +
-  geom_density(aes(x=`PROVA 4`,
-                   y=..density..),
-               col = 4,
-               lwd = 1) +
-  ylab("Densidade") +
-  xlab("") +
-  ggtitle("Prova 4")+
-  theme_classic() + theme(legend.position = 'none',
-                          plot.title = element_text(family = "Helvetica",
-                                                    face = "bold",
-                                                    size = (20),
-                                                    hjust = 0), #0,5 para legenda centralizada
-                          axis.title = element_text(face = "bold",
-                                                    size = 15),
-                          text = element_text(size=15))
-
-p2 = ggplot(data = notas,
-            mapping = aes(y=`PROVA 4`, x='1')) +
   stat_boxplot(geom ='errorbar')+
   geom_boxplot(alpha = 1)+
   #xlim(c(0,10)) +
