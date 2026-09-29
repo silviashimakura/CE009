@@ -72,7 +72,7 @@ importância, conceitos, elementos e aplicações (Prof. Paulo Justiniano).](sli
 
 **Semana 9**
 
- - 28/09/26 (seg) - [Exercícios: variáveis aleatórias](listas/202-exercicios-variaveis-aleatorias.pdf).
+ - 28/09/26 (seg) - [Exercícios: variáveis aleatórias](listas/202-exercicios-variaveis-aleatorias.pdf). [Revisão geral (Bloco 2 e Bloco 3: Variáveis aleatórias)](provas2026/exercicios-revisao-probabilidade-va-letramento.pdf)
  - 30/09/26 (qua) -  [Distribuições de probabilidade discretas](slides/301-distribuicoes-discretas.pdf). [Exercícios: Distribuições de probabilidade discretas](listas/203-exercicios-distribuicoes.pdf).
 
 **Semana 10**
@@ -83,7 +83,7 @@ importância, conceitos, elementos e aplicações (Prof. Paulo Justiniano).](sli
 **Semana 11**
 
  - 12/10/26 (seg) - *Feriado*
- - 14/10/26 (qua) - Dispensados (semana acadêmica do curso de matemática industrial)
+ - 14/10/26 (qua) - Dispensados (semana acadêmica do curso de matemática industrial). 
 
 **Semana 12**
 
@@ -92,7 +92,7 @@ importância, conceitos, elementos e aplicações (Prof. Paulo Justiniano).](sli
 
 **Semana 13**
 
- - 26/10/26 (seg) - [**PROVA 2**]
+ - 26/10/26 (seg) - [**PROVA 2**] Conteúdo: Probabilidades e Variáveis aleatórias.
  - 28/10/26 (qua) - *Feriado*
 
 ---
