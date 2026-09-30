@@ -114,15 +114,15 @@ importância, conceitos, elementos e aplicações (Prof. Paulo Justiniano).](sli
  - 16/11/26 (seg) - [Tamanho amostral.](slides/402-tamanho-amostral.pdf) [Atividade prática: Tamanho amostra.](praticas-aula/402-tamanho-amostral-enunciado.pdf)   
  - 18/11/26 (qua) - [Introdução aos testes de hipóteses, testes para uma população](slides/403-testes-de-hipoteses-novo.pdf). [Atividade prática: testes de hipóteses.](praticas-aula/403-teste-de-hipoteses-enunciado.pdf) 
 
-**Semana 17**
+**Semana 17**: Semana de estudos
 
- - 23/11/26 (seg) - [Exercícios: Testes de hipóteses.](listas/302-exercicios-testes-de-hipoteses.pdf)
- - 25/11/26 (qua) - [Revisão geral (Bloco 4)](praticas-aula/exercicios-revisao-inferencia.pdf)
+ - 23/11/26 (seg) - [Resolver a lista: Distribuição amostral e IC.](listas/301-exercicios-distribuicao-amostral-ic.pdf) 
+ - 25/11/26 (qua) - [Resolver a lista: Testes de hipóteses.](listas/302-exercicios-testes-de-hipoteses.pdf)
 
 **Semana 18**
 
- - 30/11/26 (seg) - [**PROVA 3**] 
- - 02/12/26 (qua) - 
+ - 30/11/26 (seg) - [Revisão geral (Bloco 4)](praticas-aula/exercicios-revisao-inferencia.pdf)
+ - 02/12/26 (qua) - [**PROVA 3**] 
 
 **Exame**
 
