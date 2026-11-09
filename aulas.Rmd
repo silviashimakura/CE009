@@ -106,7 +106,7 @@ importância, conceitos, elementos e aplicações (Prof. Paulo Justiniano).](sli
 
 **Semana 15**
 
- - 09/11/26 (seg) - [Atividade prática: Distribuições amostrais.](praticas-aula/400-intro-inferencia-dist-amostral-enunciado.pdf)
+ - 09/11/26 (seg) - [Distribuição amostral: slides usados na aula.](slides/distribuicao-amostral.pdf) [Atividade prática: Distribuições amostrais.](praticas-aula/400-intro-inferencia-dist-amostral-enunciado.pdf)
  - 11/11/26 (qua) - [Estimação pontual e intervalar.](slides/401-estimacao-pontual-intervalar.pdf) [Atividade prática: IC.](praticas-aula/401-intervalo-de-confianca-enunciado.pdf)
 
 **Semana 16**
